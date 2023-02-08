@@ -1,0 +1,19 @@
+id: A6116463C
+title: Suvarṇavarṇāvadāna
+type: translation
+pechas:
+- IE2FE5D82
+- IE712D7B7
+- I7704A07F
+source_metadata:
+  languages:
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:14:27.542482
+  last_modified_at: 2023-02-08 16:14:27.542496
+alignment_to_base:
+  IE2FE5D82/00ED: 0D11
+  IE712D7B7/7143: 0D11
+  I7704A07F/4141: 0D11
